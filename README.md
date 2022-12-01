@@ -5,6 +5,10 @@ Coincheck API と LINE Notify を利用した
 
 取引履歴が LINE と trade.txt に出力されます。
 
+**LINE への出力イメージ**
+
+![LINEへの出力イメージ](./images/trade-image.png)
+
 ## 環境
 
 ```shell
